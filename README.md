@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pedro Velazquez, passionate about back-end development and focused on creating elegant and efficient code.
+- I’m Pedro Velazquez, passionate about back-end development and focused on creating elegant and efficient code.
 -   I enjoy challenges that enable me to learn new subjects and apply creative solutions, even more if they are real-word scenarios I am passionate about.
 Open to work within Europe, Argentine or full-remote.
 
